@@ -1,0 +1,65 @@
+Return-Path: <nothanksimbusy@yandex.com>
+Delivered-To: moon@doomed.money
+Authentication-Results: spamfilter04.heinlein-hosting.de (amavisd-new);
+	dkim=pass (1024-bit key) header.d=yandex.com
+Received: from forward501o.mail.yandex.net (forward501o.mail.yandex.net [IPv6:2a02:6b8:0:1a2d::611])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by mx1.mailbox.org (Postfix) with ESMTPS id 369B241531
+	for <moon@doomed.money>; Sun, 29 May 2022 00:19:32 +0200 (CEST)
+Received: from vla5-778bf653163d.qloud-c.yandex.net (vla5-778bf653163d.qloud-c.yandex.net [IPv6:2a02:6b8:c18:3584:0:640:778b:f653])
+	by forward501o.mail.yandex.net (Yandex) with ESMTP id C2A3545C4510
+	for <moon@doomed.money>; Sun, 29 May 2022 01:19:00 +0300 (MSK)
+Received: from vla3-178a3f795968.qloud-c.yandex.net (vla3-178a3f795968.qloud-c.yandex.net [2a02:6b8:c15:2584:0:640:178a:3f79])
+	by vla5-778bf653163d.qloud-c.yandex.net (mxback/Yandex) with ESMTP id AJ1pPhxTqN-J0fGlJDa;
+	Sun, 29 May 2022 01:19:00 +0300
+X-Yandex-Fwd: 2
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yandex.com; s=mail; t=1653776340;
+	bh=1gIjbQj4kc3zmEym3wXNMOSmAl/6/6yZ8j3vnQaNQ0k=;
+	h=In-Reply-To:From:Subject:References:Date:Message-ID:To;
+	b=uAnkD6DtEMylbkYtZK+hYJP2mprhhOC7Sw28ZBcW+l98z3dnk8oZvvAae63yS2PuV
+	 HzBegublSFQ4Ng97XqHkhC4HhrX0KsLs9r0WNv5EHvNXeRQrB2O7RdYZW2sn5ZnsuQ
+	 G4gPchih9Nqn7mybVyXp7x5c5xl8isst2CDNJSkM=
+Authentication-Results: vla5-778bf653163d.qloud-c.yandex.net; dkim=pass header.i=@yandex.com
+Received: by vla3-178a3f795968.qloud-c.yandex.net (smtp/Yandex) with ESMTPSA id Iuec6JkV5m-J0beVbKP;
+	Sun, 29 May 2022 01:19:00 +0300
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits))
+	(Client certificate not present)
+Message-ID: <a2d8f4ba-81bc-5916-64ad-b3c06f2b9112@yandex.com>
+Date: Sat, 28 May 2022 23:18:58 +0100
+MIME-Version: 1.0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:91.0) Gecko/20100101
+ Thunderbird/91.9.1
+Subject: Re: sup
+Content-Language: en-US
+To: Hyperion <moon@doomed.money>
+References: <33a190d5-ae6e-cc94-cc42-4f56df233cff@yandex.com>
+ <a4702ec7ff6399616e80e36e1f9940d9@lunatic.doomed.money>
+ <73c16d9d-521b-835b-2ed0-3f55ba552500@yandex.com>
+ <792c4671b2e44dd5efd51eb910da868b@lunatic.doomed.money>
+ <49c76c4d-4ff5-3b88-2a64-3c812280ceb1@yandex.com>
+ <5312b9ee59eb7b1791fecbeeae23973f@lunatic.doomed.money>
+From: Fred Smith <nothanksimbusy@yandex.com>
+In-Reply-To: <5312b9ee59eb7b1791fecbeeae23973f@lunatic.doomed.money>
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Rspamd-Score: -9.38 / 15.00 / 15.00
+X-Rspamd-Queue-Id: 369B241531
+X-MBO-SPAM-Probability: 
+
+youre underestimating me i aint no dumbass, dont let the typing fool 
+you. there is already a blockchain that is feeless - DAG. email is 
+feeless. we do pay for it but we pay through the ISP and a simple money 
+transaction should be free. there are several mobile apps that are near 
+this already as well. DAG even imports other blockchains like ETH and 
+can perform feeless transactions on them within its L0 - pretty cool 
+tech man.
+
+anyway im tending towards creating a new LUNA net by taking over the 
+validators through the community and redoing the whole staking and 
+governance thing. i think it can be done. whaddya reckon ?
+
+
+On 28/05/2022 23:13, Hyperion wrote:
+>
+> Please don’t criticize what you don’t understand. 

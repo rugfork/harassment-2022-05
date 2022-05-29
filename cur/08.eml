@@ -1,0 +1,105 @@
+Return-Path: <yespeaz@yandex.com>
+Delivered-To: moon@doomed.money
+Authentication-Results: spamfilter05.heinlein-hosting.de (amavisd-new);
+	dkim=pass (1024-bit key) header.d=yandex.com
+Received: from forward500o.mail.yandex.net (forward500o.mail.yandex.net [IPv6:2a02:6b8:0:1a2d::610])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by mx2.mailbox.org (Postfix) with ESMTPS id 6299BA52AD
+	for <moon@doomed.money>; Sun, 29 May 2022 12:05:21 +0200 (CEST)
+Received: from sas1-8501f683a096.qloud-c.yandex.net (sas1-8501f683a096.qloud-c.yandex.net [IPv6:2a02:6b8:c08:78a5:0:640:8501:f683])
+	by forward500o.mail.yandex.net (Yandex) with ESMTP id 5EB24941CC4
+	for <moon@doomed.money>; Sun, 29 May 2022 13:03:20 +0300 (MSK)
+Received: from sas8-65033238d201.qloud-c.yandex.net (sas8-65033238d201.qloud-c.yandex.net [2a02:6b8:c1b:2a8f:0:640:6503:3238])
+	by sas1-8501f683a096.qloud-c.yandex.net (mxback/Yandex) with ESMTP id McAGErvyHu-3Kf0vbHZ;
+	Sun, 29 May 2022 13:03:20 +0300
+X-Yandex-Fwd: 2
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yandex.com; s=mail; t=1653818600;
+	bh=M8R2DES+Sz8kfTfjPpTSo+FWtrTe9m4qAPkHrzcmsJM=;
+	h=In-Reply-To:From:Subject:References:Date:Message-ID:To;
+	b=tM960SEbyjcfapzwigLYP0+e5bPFUxn0C6cY6wEjU11f5LQ2OzfF0P60d3ZRfq0tM
+	 pz0yrQoPTKAPX1NHVbW9HPFw7z/wKo+K+cvlrlYxfLRl0t5wX66B8it4FM7yzQxq5n
+	 FAPqpC2Jm6IMz04KMc1h2Hbvfe5z0W8pXlP18sDI=
+Authentication-Results: sas1-8501f683a096.qloud-c.yandex.net; dkim=pass header.i=@yandex.com
+Received: by sas8-65033238d201.qloud-c.yandex.net (smtp/Yandex) with ESMTPSA id 5LA70bCdPd-3JJuWbAj;
+	Sun, 29 May 2022 13:03:19 +0300
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits))
+	(Client certificate not present)
+Message-ID: <b960b587-6d6f-9515-b806-011cc95a2b6c@yandex.com>
+Date: Sun, 29 May 2022 11:03:18 +0100
+MIME-Version: 1.0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:91.0) Gecko/20100101
+ Thunderbird/91.9.1
+Subject: Re: sup
+Content-Language: en-US
+To: Hyperion <moon@doomed.money>
+References: <33a190d5-ae6e-cc94-cc42-4f56df233cff@yandex.com>
+ <a4702ec7ff6399616e80e36e1f9940d9@lunatic.doomed.money>
+ <73c16d9d-521b-835b-2ed0-3f55ba552500@yandex.com>
+ <792c4671b2e44dd5efd51eb910da868b@lunatic.doomed.money>
+ <49c76c4d-4ff5-3b88-2a64-3c812280ceb1@yandex.com>
+ <5312b9ee59eb7b1791fecbeeae23973f@lunatic.doomed.money>
+From: kris <yespeaz@yandex.com>
+In-Reply-To: <5312b9ee59eb7b1791fecbeeae23973f@lunatic.doomed.money>
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Rspamd-Score: -8.09 / 15.00 / 15.00
+X-Rspamd-Queue-Id: 6299BA52AD
+X-MBO-SPAM-Probability: 
+
+hey condescending bitcoin dude, im about to start taking down LUNA 
+infrastructure bit by bit
+
+starting with the agora website, that is going down
+
+On 28/05/2022 23:13, Hyperion wrote:
+> On Sat, May 28, 2022 at 21:09:28 UTC, Fred Smith 
+> <nothanksimbusy@yandex.com> wrote:
+>> let me know if i can help not short of time and im handy with tech. 
+>> im familiar with bitcoin stuff, im not so enamored with it really, im 
+>> a bit of a futurist and it seems a bit old hat now. for a start why 
+>> should there be a fee when sending and why use all that power?
+>
+> There is a fee because running the network has costs.  Unavoidable 
+> fact of life:  “There is no such thing as a free lunch.”  Without a 
+> fee, it would just mean that someone else is paying all the real costs 
+> of your transaction; is that fair?
+>
+> Why it uses power:  To understand the answer, you need to know some 
+> computer science.
+>
+> https://en.wikipedia.org/wiki/Byzantine_fault
+>
+> Satoshi used the power-intensive block generation (“mining”) scheme to 
+> solve a very hard problem.  How do you pick the order of transactions 
+> *without a central authority*, to prevent people from pulling scams 
+> where they spend the same money twice?  In technical terms:  This is a 
+> distributed database problem requiring Byzantine fault-tolerance.  
+> Researchers had been struggling with this problem for decades.  No one 
+> ever solved it in a deployable, practical way before Satoshi—before 
+> Bitcoin.
+>
+> Please don’t criticize what you don’t understand.
+>
+> Before Bitcoin, the only way to prevent “double-spend attacks” was 
+> with a central authority.  The central authority can be corrupt like 
+> Do Kwon.  Or it can simply fail.  In the 1990s, there was a 
+> cryptographic currency called Digicash.  The Digicash company went 
+> bankrupt.  Digicash holders lost their money:  Without the Digicash 
+> company, there wasn’t even a way to transact Digicash anymore.
+>
+> Bitcoin does not have these problems.  There is no Do Kwon type of 
+> figure who can control the network; some powerful parties have tried 
+> to take over Bitcoin like DK just did with the big POS validators, and 
+> they failed.  There is no Bitcoin company that could fail and 
+> disappear:  As long as someone out there is running free, open-source 
+> Bitcoin nodes—and as long as someone is mining—you can run your own 
+> free, open-source Bitcoin node, and transact BTC.  The system is 
+> designed for maximal freedom and total decentralization.
+>
+> Many altcoins promise “futuristic” advancements over Bitcoin. Most of 
+> those promises are false.  Is Terra the “future”?
+>
+> Happy to explain (but in haste),
+>
+> Hyperion

@@ -1,0 +1,137 @@
+Return-Path: <nothanksimbusy@yandex.com>
+Delivered-To: moon@doomed.money
+Authentication-Results: spamfilter01.heinlein-hosting.de (amavisd-new);
+	dkim=pass (1024-bit key) header.d=yandex.com
+Received: from forward501j.mail.yandex.net (forward501j.mail.yandex.net [IPv6:2a02:6b8:0:801:2::111])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by mx2.mailbox.org (Postfix) with ESMTPS id E3434A475F
+	for <moon@doomed.money>; Sat, 28 May 2022 23:09:32 +0200 (CEST)
+Received: from myt5-e6241e9902a2.qloud-c.yandex.net (myt5-e6241e9902a2.qloud-c.yandex.net [IPv6:2a02:6b8:c12:4108:0:640:e624:1e99])
+	by forward501j.mail.yandex.net (Yandex) with ESMTP id B198E623131
+	for <moon@doomed.money>; Sun, 29 May 2022 00:09:30 +0300 (MSK)
+Received: from myt6-870ea81e6a0f.qloud-c.yandex.net (myt6-870ea81e6a0f.qloud-c.yandex.net [2a02:6b8:c12:2229:0:640:870e:a81e])
+	by myt5-e6241e9902a2.qloud-c.yandex.net (mxback/Yandex) with ESMTP id 70rwmJ4JMg-9UfaLjBF;
+	Sun, 29 May 2022 00:09:30 +0300
+X-Yandex-Fwd: 2
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yandex.com; s=mail; t=1653772170;
+	bh=cU3VVAHWdKGDH19qDYLY6iQRIin1V1sCAYQaSGtgbzs=;
+	h=In-Reply-To:From:Subject:References:Date:Message-ID:To;
+	b=ap3Z6ckodXpq/vN1oi9UslHCCPubEq0Xqol0Ml4fgZHJ9Mutm5z2f+Fo8+m+kXLMH
+	 5aQ9iEQ+6qvHBc9ly4aEJs9G8XqdQIYB1lVJfNxIaWKhADHHM3r6cMbx76CvnIprul
+	 jNu+L1K+z6iC7nvl/XBmrJv7XBtZqT3VqQiLabhg=
+Authentication-Results: myt5-e6241e9902a2.qloud-c.yandex.net; dkim=pass header.i=@yandex.com
+Received: by myt6-870ea81e6a0f.qloud-c.yandex.net (smtp/Yandex) with ESMTPSA id pgab8Ayq09-9UJCbq6e;
+	Sun, 29 May 2022 00:09:30 +0300
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits))
+	(Client certificate not present)
+Message-ID: <49c76c4d-4ff5-3b88-2a64-3c812280ceb1@yandex.com>
+Date: Sat, 28 May 2022 22:09:28 +0100
+MIME-Version: 1.0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:91.0) Gecko/20100101
+ Thunderbird/91.9.1
+Subject: Re: sup
+Content-Language: en-US
+To: Hyperion <moon@doomed.money>
+References: <33a190d5-ae6e-cc94-cc42-4f56df233cff@yandex.com>
+ <a4702ec7ff6399616e80e36e1f9940d9@lunatic.doomed.money>
+ <73c16d9d-521b-835b-2ed0-3f55ba552500@yandex.com>
+ <792c4671b2e44dd5efd51eb910da868b@lunatic.doomed.money>
+From: Fred Smith <nothanksimbusy@yandex.com>
+In-Reply-To: <792c4671b2e44dd5efd51eb910da868b@lunatic.doomed.money>
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Rspamd-Score: -13.39 / 15.00 / 15.00
+X-Rspamd-Queue-Id: E3434A475F
+X-MBO-SPAM-Probability: 
+
+let me know if i can help not short of time and im handy with tech. im 
+familiar with bitcoin stuff, im not so enamored with it really, im a bit 
+of a futurist and it seems a bit old hat now. for a start why should 
+there be a fee when sending and why use all that power? its all the same 
+stuff i thought when it came out tho tbf. thats why i didnt hold doh. 
+would be good to have a website which scrapes all sources of TFL info, 
+and it would be good to store the evidence of my UST, not sure how in a 
+way which can be legally presented.
+
+anyway check you soon. interested to see your next projects.
+
+k
+
+On 28/05/2022 08:32, Hyperion wrote:
+> I spoke too soon.  The Terra forum’s system sent me some ambiguous 
+> messages that seem to imply that my account must be active.  I sat 
+> down to write a long, substantive post—because I want to contribute 
+> good things for those who deserve it, not to make throwaway posts.  
+> Nope!  Still can’t post.
+>
+> In reply to your earlier message:
+>
+>> maybe i should switch to PGP im not fond of plaintext either,
+>
+> There is a relation to Bitcoin.
+>
+> Hal Finney, who was essentially the co-author of PGP, was also the 
+> second Bitcoin user.  Other than mining transactions, the first-ever 
+> Bitcoin transaction was Satoshi sending Hal 10 BTC as a test.  Hal 
+> actively contributed to Bitcoin, even though he was deathly ill from 
+> ALS.  He continued contributing to Bitcoin, even when he was totally 
+> paralyzed—he was typing through an eyetracking device, writing code 
+> for Bitcoin.  Then, he died.  It is a part of Bitcoin history; I also 
+> consider it a part of the legacy of PGP.
+>
+> Hal Finney desribes his experiences with Bitcoin, about a year before 
+> his death:
+> https://bitcointalk.org/index.php?topic=155054.0
+>
+> As a Bitcoiner, I know that there are problems in Bitcoinland. Nothing 
+> is perfect.  But there also *idealists* in Bitcoin, who are not 
+> motivated by only raw greed.
+>
+> A bad aspect of this for me personally:  I have Bitcoiner friends who 
+> *told* me that Terra was no good, who *told* me not to trust Do Kwon.  
+> I argued with them.  I defended Do Kwon’s reputation to them.  I even 
+> pushed some of them into buying LUNA in the crash. I have mentioned 
+> this on the Terra forum; dig through some of my posts a few weeks 
+> ago.  Now I am humiliated, because I believed in Do Kwon and TFL.  I’m 
+> the fool.  And I feel that I need to pay my friends back someday, even 
+> though of course they don’t expect it.
+>
+> In Bitcoin, any “proposal” like this rugfork would bring crowds of 
+> outraged Bitcoiners doing... pretty much what I’ve been doing. Crowds 
+> of them.  This is not only a theory:  It has happened. Wealthy, 
+> powerful parties have tried to corrupt Bitcoin.  They failed, and they 
+> lost money, because the Bitcoin community absolutely would not 
+> tolerate it.
+>
+> Kris, I get what you want.  I want it, too.  A decentralized, 
+> permissionless way to have money that’s stable in value.  And when I 
+> think of how close I came to being in your position myself, I am 
+> frightened.  I had a large % of my money in UST.  If it had gone to 
+> $0.05 while I had it, I may have wound up insolvent—debts exceeding 
+> assets—wiped out, kaput, flat broke, all BTC and everything else 
+> totally lost.  I see your story, and I see all the other nightmare 
+> horror stories, and I think...  That was almost me.
+>
+> I hope you get your money back.  At least some of it.  Someday. 
+> Necessarily, I am rather pessimistic about that.
+>
+> You said:
+>
+>> i dont particularly like people nicking my cash
+>
+> Of course not.  Same here.
+>
+> I made big sacrifices to buy LUNA at the bottom.  Took risks I could 
+> not afford.  Because I believed in this project.  Because I was 
+> passionate about it.  I would NOT do such a thing as an “investment”—I 
+> am not so stupid as to take risks I can’t afford, as an investment!  
+> And as thanks for believing in his project, Do Kwon wants to steal my 
+> money.
+>
+> I regret that I may not be able to do much of this long 
+> correspondence.  I’ve been working on this Terra mess day and night 
+> for weeks.  It’s not only about the money.  With this much effort, I 
+> could make much more money.  Now, back to work...
+>
+> Hyperion

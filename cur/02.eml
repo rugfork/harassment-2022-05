@@ -1,0 +1,120 @@
+Return-Path: <nothanksimbusy@yandex.com>
+Delivered-To: moon@doomed.money
+Authentication-Results: spamfilter06.heinlein-hosting.de (amavisd-new);
+	dkim=pass (1024-bit key) header.d=yandex.com
+Received: from forward501p.mail.yandex.net (forward501p.mail.yandex.net [IPv6:2a02:6b8:0:1472:2741:0:8b7:120])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by mx2.mailbox.org (Postfix) with ESMTPS id E591AA1C8A
+	for <moon@doomed.money>; Sat, 28 May 2022 04:08:48 +0200 (CEST)
+Received: from myt6-d2347e35b502.qloud-c.yandex.net (myt6-d2347e35b502.qloud-c.yandex.net [IPv6:2a02:6b8:c12:5fa8:0:640:d234:7e35])
+	by forward501p.mail.yandex.net (Yandex) with ESMTP id E118C6212DB2
+	for <moon@doomed.money>; Sat, 28 May 2022 05:08:46 +0300 (MSK)
+Received: from myt6-016ca1315a73.qloud-c.yandex.net (myt6-016ca1315a73.qloud-c.yandex.net [2a02:6b8:c12:4e0e:0:640:16c:a131])
+	by myt6-d2347e35b502.qloud-c.yandex.net (mxback/Yandex) with ESMTP id H2BCQkXv49-8kgOfcPV;
+	Sat, 28 May 2022 05:08:46 +0300
+X-Yandex-Fwd: 2
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yandex.com; s=mail; t=1653703726;
+	bh=vAd0gHsbmhQcPrUjUXSBmon8heZA0BHIn8FcAjnJDGQ=;
+	h=In-Reply-To:From:Subject:References:Date:Message-ID:To;
+	b=sW84MspsX11wM92MP8LvPeMMMmO/ETRApCPhgdORL+zK3acXgIItoebP93nq5MGD6
+	 h66DG7Su6DZOusKKUvuiKEF57DqyEltce5a9st25d1/Dn6BxcfK/H5PfrKBeM3KjGq
+	 FXh3tUBTl5+yBq0CRRASTFS+AweT8vSi/BXZRBSU=
+Authentication-Results: myt6-d2347e35b502.qloud-c.yandex.net; dkim=pass header.i=@yandex.com
+Received: by myt6-016ca1315a73.qloud-c.yandex.net (smtp/Yandex) with ESMTPSA id SAagnmBJNw-8k0qmWMw;
+	Sat, 28 May 2022 05:08:46 +0300
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits))
+	(Client certificate not present)
+Message-ID: <73c16d9d-521b-835b-2ed0-3f55ba552500@yandex.com>
+Date: Sat, 28 May 2022 03:08:44 +0100
+MIME-Version: 1.0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:91.0) Gecko/20100101
+ Thunderbird/91.9.1
+Subject: Re: sup
+Content-Language: en-US
+To: Hyperion <moon@doomed.money>
+References: <33a190d5-ae6e-cc94-cc42-4f56df233cff@yandex.com>
+ <a4702ec7ff6399616e80e36e1f9940d9@lunatic.doomed.money>
+From: Fred Smith <nothanksimbusy@yandex.com>
+In-Reply-To: <a4702ec7ff6399616e80e36e1f9940d9@lunatic.doomed.money>
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Rspamd-Score: -13.39 / 15.00 / 15.00
+X-Rspamd-Queue-Id: E591AA1C8A
+X-MBO-SPAM-Probability: 
+
+are you autistic as well? you seem like you might be. im the chocolate 
+bloke that is ranting quite extensively :) i dont particularly like 
+people nicking my cash
+
+so what the fuck can be done about this mess, maybe i should switch to 
+PGP im not fond of plaintext either, PGP is such a pain in the ass tho. 
+got thunderbird n that but ive got so many keys im kind of overloaded
+
+im usually thrown off everywhere because of my blunt style but ive 
+remained on this terra forum for quite a while somehow (thats a week in 
+my terms). survived a campaign of some dude calling me a paid 
+establishment shill, managed to get him mostly deleted. im actually a 
+homeless autistic in a caravan in a field in the middle of nowhere. 
+mostly in bed cos it hurts to move lol. calling me an establishment 
+shill is so far off its pretty funny.
+
+btw looked into that new report earlier quickly, did a very quick whois 
+not in depth forensics heh but yeh er one of the 7 big addresses that 
+caused the crash is registered to dokwonmsl.eth
+
+https://app.ens.domains/address/0x1Df8eA15bb725E110118f031e8E71b91abaa2A06
+
+https://app.ens.domains/name/hs0327.eth/details < here if you click on 
+registrant
+
+this is probably explainable and i would guess dokwon was unwittingly 
+part of the attack or whatever you want to call it, i dont know though yet
+
+
+i would love to see luna classic n ust gain again without him, i would 
+like to see a completely different voting service, mods on the site and 
+different style of forum. i think really that crypto has to solve this 
+problem to be seen by the public as having any credibility at all at 
+this stage. anyway im not techie enough to lead but i have good ideas 
+and a strong moral compass.
+
+i still have my UST and am wondering wtf to do, there is a conference 
+call with some legal firm on monday, dunno whether to join. i would 
+rather they refund me really, i bet there arent going to follow through 
+with that now.
+
+anyway off i fart, let me know if there is anything i can do to help, i 
+can write scripts n shit to do that i assume you can as well :)
+
+kris
+
+On 28/05/2022 02:02, Hyperion wrote:
+> On Fri, May 27, 2022 at 22:00:24 UTC, Fred Smith 
+> <nothanksimbusy@yandex.com> wrote:
+>> its me off the forum :) PGP signature confirmed lol.i cant be arsed 
+>> to do pgp. project sounds interestin im an artist, music artist. 
+>> anyway more later bye!
+>
+> Not entirely sure “me” is, but not inclined to pry if you want to be 
+> mysterious.  :)
+>
+> My Terra forum account is now so suspended that I can’t even send 
+> PMs.  FYI, for the past few weeks, I have been wanting to scream at 
+> people in PM, “Are you crazy?  We are communicating in an environment 
+> where the Terra mods can read it, and they can cut us off from each 
+> other with the click of a button!  JUST EMAIL ME!” Ever since around 
+> May 16, my whole strategy has been directed by the realization that I 
+> am operating in a hostile environment operated by scammers.  But I 
+> wanted to play it cool.
+>
+> Thanks for being one of the few people who does not keep 
+> communications dependent on Terra’s ultra-centralized, 
+> ultra-permissioned forum.
+>
+> As for PGP...  Eh, maybe I’ll tell you a story about that in next 
+> email.  Maybe you’ll write a song about it.  It’s that kind of a story.
+>
+> Awaiting “more later”,
+>
+> Hyperion

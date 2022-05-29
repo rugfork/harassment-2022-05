@@ -1,0 +1,94 @@
+Date: Sat, 28 May 2022 22:13:10 +0000
+From: Hyperion <moon@doomed.money>
+To: Fred Smith <nothanksimbusy@yandex.com>
+Subject: Re: sup
+Message-ID: <5312b9ee59eb7b1791fecbeeae23973f@lunatic.doomed.money>
+References: <33a190d5-ae6e-cc94-cc42-4f56df233cff@yandex.com>
+ <a4702ec7ff6399616e80e36e1f9940d9@lunatic.doomed.money>
+ <73c16d9d-521b-835b-2ed0-3f55ba552500@yandex.com>
+ <792c4671b2e44dd5efd51eb910da868b@lunatic.doomed.money>
+ <49c76c4d-4ff5-3b88-2a64-3c812280ceb1@yandex.com>
+MIME-Version: 1.0
+Content-Type: multipart/signed; micalg=pgp-sha512;
+	protocol="application/pgp-signature"; boundary="oxV4ZoPwBLqAyY+a"
+Content-Disposition: inline
+In-Reply-To: <49c76c4d-4ff5-3b88-2a64-3c812280ceb1@yandex.com>
+
+
+--oxV4ZoPwBLqAyY+a
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+
+On Sat, May 28, 2022 at 21:09:28 UTC, Fred Smith <nothanksimbusy@yandex.com=
+> wrote:
+>let me know if i can help not short of time and im handy with tech. im=20
+>familiar with bitcoin stuff, im not so enamored with it really, im a=20
+>bit of a futurist and it seems a bit old hat now. for a start why=20
+>should there be a fee when sending and why use all that power?
+
+There is a fee because running the network has costs.  Unavoidable fact=20
+of life:  =E2=80=9CThere is no such thing as a free lunch.=E2=80=9D  Withou=
+t a fee, it=20
+would just mean that someone else is paying all the real costs of your=20
+transaction; is that fair?
+
+Why it uses power:  To understand the answer, you need to know some=20
+computer science.
+
+https://en.wikipedia.org/wiki/Byzantine_fault
+
+Satoshi used the power-intensive block generation (=E2=80=9Cmining=E2=80=9D=
+) scheme to=20
+solve a very hard problem.  How do you pick the order of transactions=20
+*without a central authority*, to prevent people from pulling scams=20
+where they spend the same money twice?  In technical terms:  This is a=20
+distributed database problem requiring Byzantine fault-tolerance. =20
+Researchers had been struggling with this problem for decades.  No one=20
+ever solved it in a deployable, practical way before Satoshi=E2=80=94before=
+=20
+Bitcoin.
+
+Please don=E2=80=99t criticize what you don=E2=80=99t understand.
+
+Before Bitcoin, the only way to prevent =E2=80=9Cdouble-spend attacks=E2=80=
+=9D was with=20
+a central authority.  The central authority can be corrupt like Do Kwon. =
+=20
+Or it can simply fail.  In the 1990s, there was a cryptographic currency=20
+called Digicash.  The Digicash company went bankrupt.  Digicash holders=20
+lost their money:  Without the Digicash company, there wasn=E2=80=99t even =
+a way=20
+to transact Digicash anymore.
+
+Bitcoin does not have these problems.  There is no Do Kwon type of=20
+figure who can control the network; some powerful parties have tried to=20
+take over Bitcoin like DK just did with the big POS validators, and they=20
+failed.  There is no Bitcoin company that could fail and disappear:  As=20
+long as someone out there is running free, open-source Bitcoin nodes=E2=80=
+=94and=20
+as long as someone is mining=E2=80=94you can run your own free, open-source=
+=20
+Bitcoin node, and transact BTC.  The system is designed for maximal=20
+freedom and total decentralization.
+
+Many altcoins promise =E2=80=9Cfuturistic=E2=80=9D advancements over Bitcoi=
+n.  Most of=20
+those promises are false.  Is Terra the =E2=80=9Cfuture=E2=80=9D?
+
+Happy to explain (but in haste),
+
+Hyperion
+
+--oxV4ZoPwBLqAyY+a
+Content-Type: application/pgp-signature; name="signature.asc"
+
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQRzuLxjf1HvL/VFBI3z/Nuk9euNGgUCYpKedwAKCRDz/Nuk9euN
+GrG1AQD3Pp8iqlgrX3ntZqDCH+QkTgxrxKWk9DFyz/NOLzkT1AD6AwxgYAAbmQqz
+sCal5AP0EcyVgbrZVu1g3OjBW0bArgo=
+=7JTV
+-----END PGP SIGNATURE-----
+
+--oxV4ZoPwBLqAyY+a--
