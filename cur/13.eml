@@ -1,0 +1,60 @@
+Return-Path: <yespeaz@yandex.com>
+Delivered-To: moon@doomed.money
+Authentication-Results: spamfilter04.heinlein-hosting.de (amavisd-new);
+	dkim=pass (1024-bit key) header.d=yandex.com
+Received: from forward102o.mail.yandex.net (forward102o.mail.yandex.net [37.140.190.182])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by mx2.mailbox.org (Postfix) with ESMTPS id D13E3A1C8A
+	for <moon@doomed.money>; Sun, 29 May 2022 21:59:28 +0200 (CEST)
+Received: from sas8-8d9ffa3eeecd.qloud-c.yandex.net (sas8-8d9ffa3eeecd.qloud-c.yandex.net [IPv6:2a02:6b8:c1b:2a0f:0:640:8d9f:fa3e])
+	by forward102o.mail.yandex.net (Yandex) with ESMTP id 4294D6FF8AA0;
+	Sun, 29 May 2022 22:59:27 +0300 (MSK)
+Received: from sas1-7a2c1d25dbfc.qloud-c.yandex.net (sas1-7a2c1d25dbfc.qloud-c.yandex.net [2a02:6b8:c08:c9f:0:640:7a2c:1d25])
+	by sas8-8d9ffa3eeecd.qloud-c.yandex.net (mxback/Yandex) with ESMTP id QuFIqm19Hh-xRcu9CRb;
+	Sun, 29 May 2022 22:59:27 +0300
+X-Yandex-Fwd: 2
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yandex.com; s=mail; t=1653854367;
+	bh=V6xKmUTmVpn9BSRRkQFkEKsMRfPSYbyK/Axx1qkWvqk=;
+	h=From:To:Subject:Date:Message-ID;
+	b=EQ4CnQbqU3Unx4YgoK5xUIzLoMO9O0dJxoHtik8atFsliDzB9BnrJsR96v1Rll2Pa
+	 qhpGJxxt7WZAmSbzife1zM47x2yeWfCaf3TEj6gi/uAosiRPyWTpQynItDU92LSdTc
+	 Abfb+Jsc1+FZAr/bp9pJx+7c+it5lCkPDgDIjqHw=
+Authentication-Results: sas8-8d9ffa3eeecd.qloud-c.yandex.net; dkim=pass header.i=@yandex.com
+Received: by sas1-7a2c1d25dbfc.qloud-c.yandex.net (smtp/Yandex) with ESMTPSA id iL8gOWll5s-xPU0sQSW;
+	Sun, 29 May 2022 22:59:26 +0300
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits))
+	(Client certificate not present)
+Message-ID: <dfad1c55-99d0-a887-4e2a-1bc18ea6b7a3@yandex.com>
+Date: Sun, 29 May 2022 20:59:22 +0100
+MIME-Version: 1.0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:91.0) Gecko/20100101
+ Thunderbird/91.9.1
+Content-Language: en-US
+To: abuse@github.com, Hyperion <moon@doomed.money>
+From: kris <yespeaz@yandex.com>
+Subject: abuse / DMCA request
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 7bit
+X-Rspamd-Score: -1.02 / 15.00 / 15.00
+X-Rspamd-Queue-Id: D13E3A1C8A
+X-MBO-SPAM-Probability: 
+
+Hi im an autistic man and im being abused by one of your customers. he 
+is violating my privacy and i want to request a DMCA removal. he 
+operates several sites
+
+rugfork.com
+
+doomed.money
+
+its caused me significant distress. his is printing my private emails 
+online, please cease and desist. his email address is above and he is an 
+individual that operates entirely on tor i think because he is a crypto 
+scammer.
+
+please deal with this promptly and remove this page.
+
+https://rugfork.com/v0/2022-05-29_illegal_intentions.html
+
+

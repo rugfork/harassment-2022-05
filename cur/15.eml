@@ -1,0 +1,184 @@
+Return-Path: <yespeaz@yandex.com>
+Delivered-To: moon@doomed.money
+Authentication-Results: spamfilter02.heinlein-hosting.de (amavisd-new);
+	dkim=pass (1024-bit key) header.d=yandex.com
+Received: from forward501o.mail.yandex.net (forward501o.mail.yandex.net [IPv6:2a02:6b8:0:1a2d::611])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by mx2.mailbox.org (Postfix) with ESMTPS id A366FA51DE
+	for <moon@doomed.money>; Sun, 29 May 2022 22:29:24 +0200 (CEST)
+Received: from iva2-1e7e7ad3ac6c.qloud-c.yandex.net (iva2-1e7e7ad3ac6c.qloud-c.yandex.net [IPv6:2a02:6b8:c0c:198f:0:640:1e7e:7ad3])
+	by forward501o.mail.yandex.net (Yandex) with ESMTP id 52C4845C4503
+	for <moon@doomed.money>; Sun, 29 May 2022 23:29:23 +0300 (MSK)
+Received: from iva2-0a73a57cc944.qloud-c.yandex.net (iva2-0a73a57cc944.qloud-c.yandex.net [2a02:6b8:c0c:6985:0:640:a73:a57c])
+	by iva2-1e7e7ad3ac6c.qloud-c.yandex.net (mxback/Yandex) with ESMTP id lIkfPEHw4C-TNfenEBk;
+	Sun, 29 May 2022 23:29:23 +0300
+X-Yandex-Fwd: 2
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yandex.com; s=mail; t=1653856163;
+	bh=Y9O9hEH9SzyC0xsLv6s7Nsc4gimY0z41kWYHjMt15y4=;
+	h=In-Reply-To:From:Subject:References:Date:Message-ID:To;
+	b=tpUjMWZbUiT+Tubfk93llT5Ul1C2+nJEcJ3LHq+ieHeG2Gy6sGY/y3c3DW1YKZihf
+	 XSc8gfrirJx9Zj/v9IxyXuW638Q3dSHJqMEW48Iioj5SH59HJsc2AdqerryCOGIW9g
+	 N8WO1EqqDK8dUv6aUb1sWx18NJ7pYi6+e16+gxtY=
+Authentication-Results: iva2-1e7e7ad3ac6c.qloud-c.yandex.net; dkim=pass header.i=@yandex.com
+Received: by iva2-0a73a57cc944.qloud-c.yandex.net (smtp/Yandex) with ESMTPSA id 93ZAxfaha4-TL08k1lE;
+	Sun, 29 May 2022 23:29:22 +0300
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits))
+	(Client certificate not present)
+Content-Type: multipart/alternative;
+ boundary="------------GjILBWMWXVYaJk1SAES00uF0"
+Message-ID: <1301a2cc-bd34-5f83-1811-920c200c995c@yandex.com>
+Date: Sun, 29 May 2022 21:29:19 +0100
+MIME-Version: 1.0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:91.0) Gecko/20100101
+ Thunderbird/91.9.1
+Subject: Fwd: [GitHub Support] Confirmation - Request Received (#1643457)
+References: <DE3OEZEEV6X_6293d6e575db8_3c3f82f44cb95c1109735_sprut@zendesk.com>
+Content-Language: en-US
+To: Hyperion <moon@doomed.money>
+From: kris <yespeaz@yandex.com>
+In-Reply-To: <DE3OEZEEV6X_6293d6e575db8_3c3f82f44cb95c1109735_sprut@zendesk.com>
+X-Forwarded-Message-Id: <DE3OEZEEV6X_6293d6e575db8_3c3f82f44cb95c1109735_sprut@zendesk.com>
+X-Rspamd-Queue-Id: A366FA51DE
+X-MBO-SPAM-Probability: 
+X-Rspamd-Score: -6.50 / 15.00 / 15.00
+
+This is a multi-part message in MIME format.
+--------------GjILBWMWXVYaJk1SAES00uF0
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 7bit
+
+ah good github support are on the case for my DMCA request. be such a 
+shame if they took your whole website down. lol
+
+
+
+-------- Forwarded Message --------
+Subject: 	[GitHub Support] Confirmation - Request Received (#1643457)
+Date: 	Sun, 29 May 2022 20:26:13 +0000
+From: 	GitHub <support@githubsupport.com>
+Reply-To: 	GitHub <support@githubsupport.com>
+To: 	Kris Weston <yespeaz@yandex.com>
+
+
+
+## Please do not write below this line ##
+
+
+Thank you for contacting GitHub Support. We wanted to let you know that 
+we've received your message. We are experiencing high volumes and 
+therefore, you may experience longer than normal wait times. In the 
+meantime, you may find answers to commonly asked questions in our 
+community forum <https://github.community/> or in our documentation 
+<https://docs.github.com/>.
+
+
+Ticket ID: 1643457
+
+
+If you have any additional information or would like to add anything to 
+your initial message, now would be a great time to do so, feel free to 
+reply to this email. If not, then rest assured your request is in the 
+right hands :)
+
+Thank you!
+The GitHub Support Team
+
+This email is a service from GitHub Support.
+[DE3OEZ-EEV6X]
+--------------GjILBWMWXVYaJk1SAES00uF0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <head>
+
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  </head>
+  <body style="width: 100%!important; margin: 0; padding: 0;">
+    <p>ah good github support are on the case for my DMCA request. be
+      such a shame if they took your whole website down. lol<br>
+    </p>
+    <div class="moz-forward-container"><br>
+      <br>
+      -------- Forwarded Message --------
+      <table class="moz-email-headers-table" cellspacing="0"
+        cellpadding="0" border="0">
+        <tbody>
+          <tr>
+            <th valign="BASELINE" nowrap="nowrap" align="RIGHT">Subject:
+            </th>
+            <td>[GitHub Support] Confirmation - Request Received
+              (#1643457)</td>
+          </tr>
+          <tr>
+            <th valign="BASELINE" nowrap="nowrap" align="RIGHT">Date: </th>
+            <td>Sun, 29 May 2022 20:26:13 +0000</td>
+          </tr>
+          <tr>
+            <th valign="BASELINE" nowrap="nowrap" align="RIGHT">From: </th>
+            <td>GitHub <a class="moz-txt-link-rfc2396E" href="mailto:support@githubsupport.com">&lt;support@githubsupport.com&gt;</a></td>
+          </tr>
+          <tr>
+            <th valign="BASELINE" nowrap="nowrap" align="RIGHT">Reply-To:
+            </th>
+            <td>GitHub <a class="moz-txt-link-rfc2396E" href="mailto:support@githubsupport.com">&lt;support@githubsupport.com&gt;</a></td>
+          </tr>
+          <tr>
+            <th valign="BASELINE" nowrap="nowrap" align="RIGHT">To: </th>
+            <td>Kris Weston <a class="moz-txt-link-rfc2396E" href="mailto:yespeaz@yandex.com">&lt;yespeaz@yandex.com&gt;</a></td>
+          </tr>
+        </tbody>
+      </table>
+      <br>
+      <br>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <style type="text/css">table td {
+      border-collapse: collapse;
+    }</style>
+      <div style="padding: 10px ; line-height: 18px; font-family:
+        'Lucida Grande',Verdana,Arial,sans-serif; font-size: 12px;
+        color:#444444;">
+        <div style="color: #b5b5b5;">## Please do not write below this
+          line ##</div>
+        <p dir="ltr"> <br>
+          Thank you for contacting GitHub Support. We wanted to let you
+          know that we've received your message. We are experiencing
+          high volumes and therefore, you may experience longer than
+          normal wait times. In the meantime, you may find answers to
+          commonly asked questions in our <a
+            href="https://github.community/" moz-do-not-send="true">community
+            forum</a> or in our <a href="https://docs.github.com/"
+            moz-do-not-send="true">documentation</a>.<br>
+        </p>
+        <p dir="ltr"> <br>
+          Ticket ID: 1643457<br>
+        </p>
+        <p dir="ltr"> </p>
+        <p dir="ltr"> <br>
+          If you have any additional information or would like to add
+          anything to your initial message, now would be a great time to
+          do so, feel free to reply to this email. If not, then rest
+          assured your request is in the right hands :)<br>
+        </p>
+        <p dir="ltr">Thank you!<br>
+          The GitHub Support Team</p>
+        <div style="color: #aaaaaa; margin: 10px 0 14px 0; padding-top:
+          10px; border-top: 1px solid #eeeeee;"> This email is a service
+          from GitHub Support. </div>
+      </div>
+      <span style="color:#FFFFFF" aria-hidden="true">[DE3OEZ-EEV6X]</span>
+      <div itemscope="" itemtype="http://schema.org/EmailMessage"
+        style="display:none">
+        <div itemprop="action" itemscope=""
+          itemtype="http://schema.org/ViewAction">
+          <link itemprop="url"
+            href="https://enterprise.githubsupport.com/hc/requests/1643457">
+          <meta itemprop="name" content="View ticket">
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
+
+--------------GjILBWMWXVYaJk1SAES00uF0--

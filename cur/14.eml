@@ -1,0 +1,174 @@
+Return-Path: <yespeaz@yandex.com>
+Delivered-To: moon@doomed.money
+Authentication-Results: spamfilter01.heinlein-hosting.de (amavisd-new);
+	dkim=pass (1024-bit key) header.d=yandex.com
+Received: from forward500j.mail.yandex.net (forward500j.mail.yandex.net [IPv6:2a02:6b8:0:801:2::110])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by mx1.mailbox.org (Postfix) with ESMTPS id AA61241A5F
+	for <moon@doomed.money>; Sun, 29 May 2022 22:19:54 +0200 (CEST)
+Received: from iva6-eebf7d0bf547.qloud-c.yandex.net (iva6-eebf7d0bf547.qloud-c.yandex.net [IPv6:2a02:6b8:c0c:912f:0:640:eebf:7d0b])
+	by forward500j.mail.yandex.net (Yandex) with ESMTP id D66E26CB6717
+	for <moon@doomed.money>; Sun, 29 May 2022 23:19:52 +0300 (MSK)
+Received: from iva5-057a0d1fbbd8.qloud-c.yandex.net (iva5-057a0d1fbbd8.qloud-c.yandex.net [2a02:6b8:c0c:7f1c:0:640:57a:d1f])
+	by iva6-eebf7d0bf547.qloud-c.yandex.net (mxback/Yandex) with ESMTP id Vvi2F6GRos-JqfG7WHS;
+	Sun, 29 May 2022 23:19:52 +0300
+X-Yandex-Fwd: 2
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yandex.com; s=mail; t=1653855592;
+	bh=UniRnG77jI2U4Y9mS2g3MlyC+0AizPZzroX+DTwESbU=;
+	h=In-Reply-To:From:Subject:References:Date:Message-ID:To;
+	b=UHvElYZNNhZQ0x2lsKkwQKPIYjdiwpce49/KSZdgT2NPewPtNU7fG+PxvEDqAEM0G
+	 GdIHTHpAgE6Y9PnCo2dnrtT5438+kufDzGIitXdDEn24XIFYAQBuHC0g9OVHHh5789
+	 001MjE17NI7YYd7pZcpAcTowlxInaTq65OKP+Bgc=
+Authentication-Results: iva6-eebf7d0bf547.qloud-c.yandex.net; dkim=pass header.i=@yandex.com
+Received: by iva5-057a0d1fbbd8.qloud-c.yandex.net (smtp/Yandex) with ESMTPSA id sB0nx1d6wX-JpwWaECY;
+	Sun, 29 May 2022 23:19:52 +0300
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits))
+	(Client certificate not present)
+Content-Type: multipart/alternative;
+ boundary="------------yyFMXewfvSua80orPY0fsood"
+Message-ID: <95a00be6-b5d2-0c8e-f50a-ccef75905da5@yandex.com>
+Date: Sun, 29 May 2022 21:19:48 +0100
+MIME-Version: 1.0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:91.0) Gecko/20100101
+ Thunderbird/91.9.1
+Subject: Re: print this on your website you cunt
+Content-Language: en-US
+To: Hyperion <moon@doomed.money>
+References: <33a190d5-ae6e-cc94-cc42-4f56df233cff@yandex.com>
+ <a4702ec7ff6399616e80e36e1f9940d9@lunatic.doomed.money>
+ <73c16d9d-521b-835b-2ed0-3f55ba552500@yandex.com>
+ <792c4671b2e44dd5efd51eb910da868b@lunatic.doomed.money>
+ <49c76c4d-4ff5-3b88-2a64-3c812280ceb1@yandex.com>
+ <5312b9ee59eb7b1791fecbeeae23973f@lunatic.doomed.money>
+ <b960b587-6d6f-9515-b806-011cc95a2b6c@yandex.com>
+ <e3f3deca776aab8f0a9fef4b95766501@lunatic.doomed.money>
+From: kris <yespeaz@yandex.com>
+In-Reply-To: <e3f3deca776aab8f0a9fef4b95766501@lunatic.doomed.money>
+X-Rspamd-Queue-Id: AA61241A5F
+X-MBO-SPAM-Probability: 
+X-Rspamd-Score: -9.94 / 15.00 / 15.00
+
+This is a multi-part message in MIME format.
+--------------yyFMXewfvSua80orPY0fsood
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+
+i only just woke up so i didnt hack anything yet. now because you have 
+threatened me all thats happened is you have threatened to break my 
+privacy. no hacking has taken place and none will by me - cant speak for 
+anyone else. enjoy the DMCA request to github. ill be keeping an eye on 
+your site in the future, if it goes down that would be an awful shame.
+
+*financial loss from UST.  I much sympathize; of course*
+
+no you dont youre a cunt
+
+*But then, you flipped out and flew into a rage at me because I offered 
+knowledge to correct some of your basic technical misconceptions about 
+Bitcoin. *
+
+what are you talking about i just called you what you are - 
+condescending, no rage involved. i am autistic we are blunt. its now 
+that im in a rage cunt. basic misconceptions was the problem you assumed 
+misconceptions that were not there. you are an old fashioned bitcoin 
+maxi. and youre a stuck up cunt. i already knew everything you typed me, 
+ive been into computers since the 80s. i actually meant it in a friendly 
+jokey way but now we are enemies
+
+*You don’t even know how email works:*
+
+ran my own email server for years. i know *exactly* how it works
+
+*You believe that email is “feeless”.*
+
+i didnt say email was feeless, i said you end up paying through the ISP 
+essentially. but you are a stuck up american cop cunt who wants to 
+believe what he wants to believe. email is essentially free.
+
+*You apparently don’t know what spam is*
+
+literally everyone knows what spam is, youre just making shit up to try 
+and sound superior. youre just a wanker.
+
+*or that Hashcash was a proposed quasi-fee for email. *
+
+dude, nobody cares about your granddad shit. we aint in the DARPA era 
+anymore
+
+*Therefore, I think that you are probably just trying to show me up by 
+bragging about a wild wannabe-hacker fantasy that you have neither the 
+technical skills nor the operational ability to execute*
+
+and its me with the mental health issues ? how would i show you up ? 
+what are you even talking about. you are off your fucking face.
+
+again with the condescending shit. you dont know what my level of 
+technical expertise is. you dont know anything about me, but you feel 
+its your right to invade my privacy and threaten me. well game on cunt.
+**
+
+
+--------------yyFMXewfvSua80orPY0fsood
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  </head>
+  <body>
+    <p>i only just woke up so i didnt hack anything yet. now because you
+      have threatened me all thats happened is you have threatened to
+      break my privacy. no hacking has taken place and none will by me -
+      cant speak for anyone else. enjoy the DMCA request to github. ill
+      be keeping an eye on your site in the future, if it goes down that
+      would be an awful shame.</p>
+    <p><b>financial loss from UST.  I much sympathize; of course</b></p>
+    <p>no you dont youre a cunt</p>
+    <p><b>But then, you flipped out and flew into a rage at me because I
+        offered knowledge to correct some of your basic technical
+        misconceptions about Bitcoin.
+      </b></p>
+    <p>what are you talking about i just called you what you are -
+      condescending, no rage involved. i am autistic we are blunt. its
+      now that im in a rage cunt. basic misconceptions was the problem
+      you assumed misconceptions that were not there. you are an old
+      fashioned bitcoin maxi. and youre a stuck up cunt. i already knew
+      everything you typed me, ive been into computers since the 80s. i
+      actually meant it in a friendly jokey way but now we are enemies <br>
+    </p>
+    <p><b>You don’t even know how email works:</b></p>
+    <p>ran my own email server for years. i know *exactly* how it works<br>
+    </p>
+    <p><b>You believe that email is “feeless”.</b></p>
+    <p> i didnt say email was feeless, i said you end up paying through
+      the ISP essentially. but you are a stuck up american cop cunt who
+      wants to believe what he wants to believe. email is essentially
+      free. <br>
+    </p>
+    <p><b>You apparently don’t know what spam is</b></p>
+    <p>literally everyone knows what spam is, youre just making shit up
+      to try and sound superior. youre just a wanker.</p>
+    <p><b>or that Hashcash was a proposed quasi-fee for email. </b><br>
+    </p>
+    <p>dude, nobody cares about your granddad shit. we aint in the DARPA
+      era anymore<br>
+    </p>
+    <p><b>Therefore, I think that you are probably just trying to show
+        me up by bragging about a wild wannabe-hacker fantasy that you
+        have neither the technical skills nor the operational ability to
+        execute</b></p>
+    <p>and its me with the mental health issues ? how would i show you
+      up ? what are you even talking about. you are off your fucking
+      face. </p>
+    <p>again with the condescending shit. you dont know what my level of
+      technical expertise is. you dont know anything about me, but you
+      feel its your right to invade my privacy and threaten me. well
+      game on cunt.<br>
+      <b></b></p>
+    <br>
+  </body>
+</html>
+
+--------------yyFMXewfvSua80orPY0fsood--
